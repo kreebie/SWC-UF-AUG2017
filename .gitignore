@@ -1,0 +1,9 @@
+moon
+*~
+*#
+.Rhistory
+*.pdf
+*.docx
+!manual.pdf
+
+#  '!' is for exceptions
